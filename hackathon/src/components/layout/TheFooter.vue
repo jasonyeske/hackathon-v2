@@ -3,11 +3,11 @@
 
 
 <template>
-    <div class='inset-x-0 bottom-0'>
+    <div>
 
 
    
-<nav role="navigation" class='inset-x-0 bottom-0'>
+<nav role="navigation">
   
   <ul class='absolute inset-x-0 bottom-0 text-sm'>
    <li></li>
@@ -16,8 +16,8 @@
     <li><a href="#"></a></li>
     <li><a href="#"></a></li>
     <li><a href="#"></a></li>
-    <li><a href="#">2022 STUSSY</a></li>
-    <li><a href="#" class="text-right">CHAT</a></li>
+    <li>2022 STUSSY</li>
+    <li><a href="#">CHAT</a></li>
     <li><a href="#">CONTACT</a></li>
     <li><a href="#">FEATURES</a></li>
     <li><a href="#">CHAPTERS</a></li>
