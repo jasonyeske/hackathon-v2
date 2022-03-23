@@ -1,5 +1,5 @@
 <template>
-  <div class="w-80">
+  <div class="w-96"> 
     <img :src="props.img.url" :alt="props.img.alt" />
     <h1>{{ props.cardInfo.cardTitle }}</h1>
   </div>
